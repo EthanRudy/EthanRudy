@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ethan Rudy
-- 👀 I’m currently interested in computer architecture and game development
+- 👀 I’m currently interested in cybersecurity and simulations
 - 🌵 I’m currently studying at Arizona State University
 - 📫 ethan.c.rudy@gmail.com
 
